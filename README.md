@@ -14,7 +14,10 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/jonatan-compiani/">
-      <img alt="docker" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-flat&logo=linkedin&logoColor=white"  />
+    <img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-flat&logo=linkedin&logoColor=white"  />
+  </a>
+  <a href="mailto:jonatan.compiani@gmail.com/">
+    <img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-flat&logo=Gmail&logoColor=white"  />
   </a>
 </p>
 
