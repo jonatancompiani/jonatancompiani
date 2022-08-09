@@ -1,7 +1,10 @@
 <p align="center">
-    Hi there 👋
+🌱
 </p>
-<br>
+
+<p align="center">
+
+</p>
  
 <p align="center">
     <img alt="azuredevops" src="https://img.shields.io/badge/-Azure DevOps-blue?style=flat-flat&logo=azuredevops&logoColor=white" />
@@ -19,19 +22,23 @@
     <img alt="grafana" src="https://img.shields.io/badge/-Grafana-gold?style=flat-flat&logo=grafana&logoColor=orange" />
     <img alt="rabbitmq" src="https://img.shields.io/badge/-Rabbit MQ-orange?style=flat-flat&logo=rabbitmq&logoColor=white" />
     <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-flat&logo=docker&logoColor=white" />
+
 </p>
     
 <p align="center">
     <img alt="dotnet" src="https://img.shields.io/badge/-.Net Core-purple?style=flat-flat&logo=dotnet&logoColor=white" />
     <img alt="python" src="https://img.shields.io/badge/-Python-gold?style=flat-flat&logo=python&logoColor=blue" />
     <img alt="csharp" src="https://img.shields.io/badge/-C%20Sharp-purple?style=flat-flat&logo=csharp&logoColor=white" />
-    <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=black" />
+    <img alt="js" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-flat&logo=javascript&logoColor=white" />
     <img alt="ts" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-flat&logo=typescript&logoColor=white" />
+    <img alt="angular" src="https://img.shields.io/badge/-Angular-red?style=flat-flat&logo=angularjs&logoColor=white" />
 </p>
 
 <br>
+
 <p align="center">
-  Test
+How to reach me
+<br>
   <a href="https://www.linkedin.com/in/jonatan-compiani/">
     <img alt="linkedin" src="https://img.shields.io/badge/-Linkedin-blue?style=flat-flat&logo=linkedin&logoColor=white"  />
   </a>
