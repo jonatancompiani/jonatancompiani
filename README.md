@@ -9,7 +9,7 @@
 <p align="center">
     <img alt="azuredevops" src="https://img.shields.io/badge/-Azure DevOps-blue?style=flat-flat&logo=azuredevops&logoColor=white" />
     <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-flat&logo=github&logoColor=white" />
-    <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-orange?style=flat-flat&logo=gitlab&logoColor=white" />
+    <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-white?style=flat-flat&logo=gitlab" />
 </p>
 
 <p align="center">   
@@ -19,6 +19,7 @@
     <img alt="swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-flat&logo=swagger&logoColor=black" />
     <img alt="prometheus" src="https://img.shields.io/badge/-Prometheus-orange?style=flat-flat&logo=prometheus&logoColor=white" />
     <img alt="sqlserver" src="https://img.shields.io/badge/-SQL Server-gray?style=flat-flat&logo=microsoftsqlserver&logoColor=white" />
+    <img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-white?style=flat-flat&logo=mongodb" />
     <img alt="grafana" src="https://img.shields.io/badge/-Grafana-gold?style=flat-flat&logo=grafana&logoColor=orange" />
     <img alt="rabbitmq" src="https://img.shields.io/badge/-Rabbit MQ-orange?style=flat-flat&logo=rabbitmq&logoColor=white" />
     <img alt="docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-flat&logo=docker&logoColor=white" />
