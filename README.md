@@ -46,7 +46,7 @@ How to reach me
   <a href="mailto:jonatan.compiani@gmail.com/">
     <img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-flat&logo=Gmail&logoColor=white"  />
   </a>
-   <a href="Jonatan_Compiani_Resume.pdf">
+   <a href="https://github.com/jonatancompiani/jonatancompiani/edit/test-pdf/Jonatan_Compiani_Resume.pdf">
     <img alt="read.cv" src="https://img.shields.io/badge/-Resume-7dd4ba?style=flat-flat&logo=read.cv&logoColor=blue"  />
   </a>
 </p>
