@@ -46,6 +46,9 @@ How to reach me
   <a href="mailto:jonatan.compiani@gmail.com/">
     <img alt="gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-flat&logo=Gmail&logoColor=white"  />
   </a>
+ <a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0VIzj32C4Diw96zRYr7YrJdiliUNhEbEqUcDVifAYpPGOYT75L7b_UemUHGRz9j9vSR9F_6K9g?gv=true">
+    <img alt="Book Appointment" src="https://img.shields.io/badge/-Book Appointment-50B0E9?style=flat-flat&logo=googlecalendar&logoColor=white"  />
+  </a>
 </p>
 
 <!--
